@@ -1,0 +1,65 @@
+body{
+    background-color: black;
+    color: white;
+}
+#h1{
+ 
+    color: black;
+    width: 35%;
+}
+
+h1:hover{
+ font-weight: 900px;
+ size: 50px;
+}
+
+.l{
+    border-style: ridge;
+    border-color: grey;
+    border-width: 3px;
+    border-radius: 50;
+    width:100px;
+    padding: 5px;
+}
+hr{
+    width: 50px;
+}
+body{
+    background-color: black;
+    color: white;
+}
+#h1{
+ 
+    color: black;
+    width: 35%;
+}
+
+h1:hover{
+ font-weight: 10000px;
+ size: 50px;
+}
+
+.l{
+    border-style: solid;
+    border-color: grey;
+    border-width: 3px;
+    border-radius: 50;
+    width:100px;
+    padding: 5px;
+}
+hr{
+    width: 30px;
+}
+#camera , #result {
+    width: 310px;
+    height: 310px; 
+    background-color: white;
+    border-radius: 10px;
+  
+  }
+marquee{
+    font-size:20px;
+}
+#captured_img{
+  margin: 0px;
+}
